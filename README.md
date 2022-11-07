@@ -1,10 +1,13 @@
 ## I have experience with:
-- HTML, CSS
-- JS, TypeScript
 - React
+- JavaScript
+- TypeScript
+- Next.js
 - Redux
-- StyledComponents, css modules
-- Node.js basics, Express.js
+- Redux toolkit, rtq query
+- React mui
+- HTML, CSS
+- StyledComponents
+- css modules
+- sass
 - mjml
-
-- I’m currently learning Effector.js, Node.js, D3.js
